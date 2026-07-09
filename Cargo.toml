@@ -1,6 +1,6 @@
 [package]
 name = "rsomics-quantile-norm"
-version = "0.1.1"
+version = "0.1.2"
 description = "Quantile normalization of a gene x sample count matrix (limma normalizeQuantiles)"
 edition = "2024"
 rust-version = "1.91"
